@@ -18,5 +18,5 @@ const employeeAttendance = {
 const attendanceData = [
     employeeAttendance.attendance("EMP001", "Mas Andre", "2024-06-01", "09:00", "17:00", 8, true),
     employeeAttendance.attendance("EMP002", "Mas Asril", "2024-06-01", "09:30", "18:00", 8.5, true),
-    employeeAttendance.attendance("EMP003", "Mas Budi", "2024-06-01", "10:00", "16:00", 6, false)
+    employeeAttendance.attendance("EMP003", "Mas Budi", "2024-06-01", "10:00", "16:00", 6, true)
 ];
